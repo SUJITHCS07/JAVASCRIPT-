@@ -1,0 +1,12 @@
+<html>
+<body>
+
+<h2>My First JavaScript</h2>
+
+<button type="hello" 
+onclick="document.getElementById('one').innerHTML = Date()">The Current Date And Time Is.</button>
+
+<p id="one"></p>
+
+</body>
+</html> 
